@@ -24,7 +24,7 @@
 
 ## Installation
 
-* `git clone git@github.com:taming-the-state-in-react/react-mobx-firebase-authentication.git`
+* `git clone https://github.com/sbmart/react-mobx-firebase-authentication.git`
 * `cd react-mobx-firebase-authentication`
 * `npm install`
 * `npm start`
